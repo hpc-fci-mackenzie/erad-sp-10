@@ -1,0 +1,114 @@
+#programa {
+	margin: 10px 0 10px 180px;
+	padding: 0;
+	text-align: justify;
+	line-height: 1.5em;
+}
+
+#programa h1 { 
+	font-size: 1.6em; 
+	font-weight: normal;
+	margin-bottom: 10px;
+}
+
+#programa table
+{
+	width: 400px;
+	color: #000;
+	text-align: left;
+	outline-width: 1px;
+	margin: 0px;
+	padding: 0px;
+	border: 1px solid #ccc;
+}
+
+.titulo-azul {
+	color: blue;
+	font-size: 14px;
+	text-align: left;
+	font-weight: bold;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.program-cell-time {
+	background: #f4f4f4;
+	font-size: 11px;
+	font-weight: bold;
+	text-align: left;
+	vertical-align: top;
+	width: 35px;
+	margin: 2px;
+	padding: 5px;
+	border-bottom: 1px solid #ccc;
+	border-right: 1px solid #ccc;
+}
+
+.programcell-break {
+	background: #ffccff;
+	font-size: 11px;
+	font-weight: bold;
+	text-align: left;
+	vertical-align: top;
+	margin: 3px;
+	padding: 7px;
+	border-bottom: 1px solid #ccc;
+}
+
+.programcell-list {
+	font-size: 11px;
+	text-align: justify;
+	vertical-align: top;
+	margin: 3px;
+	padding: 7px;
+}
+
+.programcell {
+	font-size: 11px;
+	text-align: justify;
+	vertical-align: top;
+	margin: 3px;
+	padding: 7px;
+	border-bottom: 1px solid #ccc;
+}
+/*
+ * REGISTRATION
+ */
+.registro-titulo {
+	color: green;
+	font-size: 14px;
+	text-transform: uppercase;
+}
+
+/*
+ * SESSION
+ */
+.session-titulo {
+	color: blue;
+	font-size: 14px;
+	text-transform: uppercase;
+}
+
+
+
+/*
+ * KEYNOTE
+ */
+.keynote-titulo {
+	color: red;
+	font-size: 14px;
+	text-transform: uppercase;
+}
+
+.keynote-nome {
+	font-weight: bold;	
+	text-transform: uppercase;
+}
+
+.keynote-inst {
+	font-weight: bold;
+}
+
+.keynote-topic {
+	font-style: italic;
+}
